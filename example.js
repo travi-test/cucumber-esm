@@ -1,7 +1,8 @@
 // #### Import
-// remark-usage-ignore-next
+// remark-usage-ignore-next 2
 import stubbedFs from 'mock-fs';
-import {scaffold} from './lib/index.cjs';
+// eslint-disable-next-line import/extensions
+import {scaffold} from './lib/index.es.js';
 
 // remark-usage-ignore-next
 stubbedFs();

@@ -14,6 +14,8 @@ reproduction of problem using loaders with cucumber on an ESM project
 * [Usage](#usage)
   * [Installation](#installation)
   * [Example](#example)
+    * [Import](#import)
+    * [Execute](#execute)
 * [Contributing](#contributing)
   * [Dependencies](#dependencies)
   * [Verification](#verification)
@@ -39,7 +41,7 @@ $ npm install @form8ion/cucumber-esm
 #### Import
 
 ```javascript
-import {scaffold} from './lib/index.cjs';
+import {scaffold} from '@form8ion/cucumber-esm';
 ```
 
 #### Execute
