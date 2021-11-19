@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: cucumber-esm
+  description: reproduction of problem using loaders with cucumber on an ESM project
+  homepage: https://npm.im/@form8ion/cucumber-esm
+  private: false
