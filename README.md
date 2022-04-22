@@ -1,6 +1,6 @@
 # cucumber-esm
 
-reproduction of problem using loaders with cucumber on an ESM project
+reproduction of [problem using loaders with cucumber on an ESM project](https://github.com/cucumber/cucumber-js/issues/1844)
 
 <!--status-badges start -->
 
@@ -99,7 +99,7 @@ $ npm test
 
 [github-actions-ci-link]: https://github.com/form8ion/cucumber-esm/actions?query=workflow%3A%22Node.js+CI%22+branch%3Amaster
 
-[github-actions-ci-badge]: https://github.com/form8ion/cucumber-esm/workflows/Node.js%20CI/badge.svg
+[github-actions-ci-badge]: https://github.com/travi-test/cucumber-esm/workflows/Node.js%20CI/badge.svg
 
 [coverage-link]: https://codecov.io/github/form8ion/cucumber-esm
 
